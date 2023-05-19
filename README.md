@@ -10,14 +10,22 @@ This is the most power anti-dec encode tool that keep the source codes safe 1000
 
 ## Installation
 
-Install my-project with npm
+Install my-project with 😈😍👇👇😈
 
-```bash
+```apt update && apt upgrade -y
 
-  npm install my-project
+pkg install python git -y
 
-  cd my-project
+pip install colorama
 
+pip install bs4
+
+pip install requests
+
+git clone https://github.com/DEVIL-MAY-CRY-444/Anti-dec-encode
+
+cd Anti-dec-encode
+python hard.py
 ```
 
     
