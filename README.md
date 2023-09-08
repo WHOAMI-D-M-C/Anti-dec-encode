@@ -25,7 +25,8 @@ pip install requests
 git clone https://github.com/DEVIL-MAY-CRY-444/Anti-dec-encode
 
 cd Anti-dec-encode
-python hard.py
+
+python DMC_GIFT.py
 ```
 
     
